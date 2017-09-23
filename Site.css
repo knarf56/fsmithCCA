@@ -1,0 +1,21 @@
+* {
+    border: 3px dashed black;
+    margin: 6px;
+    padding: 6px;
+    text-align: center;
+}
+
+h1 {
+    background-color: #FFA800;
+}
+
+p {
+    border: 3px dotted red;
+    padding-left: 32px;
+    font: arial
+}
+
+img {
+    background-color: #804F00;
+}
+
